@@ -1,0 +1,4 @@
+BicycleShop.MainActivity;bicycleshop.MainActivity
+BicycleShop.bikeAdapter;bicycleshop.bikeAdapter
+BicycleShop.BikeListView;bicycleshop.BikeListView
+BicycleShop.BikeDetailView;bicycleshop.BikeDetailView
